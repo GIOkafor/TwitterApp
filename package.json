@@ -1,0 +1,16 @@
+{
+  "name": "TwitterLiveSearchApp",
+  "version": "0.1.0",
+  "description": "Twitter search app built with Angularjs, Material Design and Twitter Streams",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Okafor Ikechukwu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.10.1",
+    "socket.io": "^1.2.0",
+    "twit": "^1.1.18"
+  }
+}
